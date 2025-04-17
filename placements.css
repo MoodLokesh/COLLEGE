@@ -1,0 +1,39 @@
+.placements-overview,
+.recruiters,
+.placement-stats,
+.success-stories {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.placements-overview h2,
+.recruiters h2,
+.placement-stats h2,
+.success-stories h2 {
+    font-size: 1.8rem;
+    color: #003366;
+    margin-bottom: 10px;
+}
+
+.recruiter-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding-left: 0;
+    gap: 10px;
+}
+
+.recruiter-list li {
+    background-color: #f2f2f2;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.placement-stats ul,
+.success-stories p {
+    margin-top: 10px;
+    color: #444;
+    line-height: 1.6;
+}

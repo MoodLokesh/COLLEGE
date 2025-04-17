@@ -1,0 +1,27 @@
+.admissions-info {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.admissions-info h2 {
+    margin-top: 40px;
+    font-size: 1.8rem;
+    color: #003366;
+}
+
+.admissions-info ol, 
+.admissions-info ul {
+    margin-top: 10px;
+    padding-left: 25px;
+    color: #444;
+}
+
+.admissions-info a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+.admissions-info a:hover {
+    text-decoration: underline;
+}

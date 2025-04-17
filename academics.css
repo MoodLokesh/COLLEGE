@@ -1,0 +1,63 @@
+/* Page Header */
+.page-header {
+    background-color: #eef2f7;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    color: #002b5c;
+    margin-bottom: 10px;
+}
+
+.page-header p {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+/* Programs */
+.programs {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.program-category {
+    margin-bottom: 40px;
+}
+
+.program-category h2 {
+    font-size: 1.8rem;
+    color: #003366;
+    margin-bottom: 10px;
+}
+
+.program-category ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #444;
+}
+
+/* CTA Section */
+.cta-section {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #002b5c;
+    color: white;
+}
+
+.cta-section .cta-button {
+    background-color: #ffcc00;
+    color: #002b5c;
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 15px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.cta-section .cta-button:hover {
+    background-color: #e6b800;
+}
